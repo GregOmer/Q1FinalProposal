@@ -1,0 +1,24 @@
+Proposal 1:
+
+  take a name, zipcode, and base alcohol.
+
+  based on time of day and weather (api), return an appropriate drink
+
+  include image, recipe
+
+  change backgound image based on api and drink result
+
+  store user name for return
+
+
+Proposal 2:
+
+  create a twister/wheel of fortune style random selector
+
+  input fields for chores/tasks/rewards
+
+  localStorage for return users
+
+  localStorage for completion tracking
+
+  localStorage for input retention
